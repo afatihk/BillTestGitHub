@@ -10,5 +10,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         var occupation = "Devoloper"
+
+        var name = "Ahmet Fatih Karagöz"
     }
 }
